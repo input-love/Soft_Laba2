@@ -8,7 +8,7 @@ namespace Soft_Laba2
 {
     internal class ConsoleIt
     {
-        ConsoleIt()
+        public ConsoleIt()
         {
             BoxGift = new Box("Коробка с подарками");
         }
